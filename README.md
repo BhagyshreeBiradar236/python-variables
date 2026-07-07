@@ -2,4 +2,5 @@
 a = "bhagya reddy"
 <br>
 b = 22
-print(a)
+print(a) 
+output : bhagya reddy
